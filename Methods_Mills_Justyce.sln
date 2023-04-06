@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods_Mills_Justyce", "Methods_Mills_Justyce\Methods_Mills_Justyce.csproj", "{FED35A88-F54F-4358-B805-6CDC965DED0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FED35A88-F54F-4358-B805-6CDC965DED0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED35A88-F54F-4358-B805-6CDC965DED0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED35A88-F54F-4358-B805-6CDC965DED0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED35A88-F54F-4358-B805-6CDC965DED0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30121901-511B-4AC1-A64B-0460B41D49C2}
+	EndGlobalSection
+EndGlobal
